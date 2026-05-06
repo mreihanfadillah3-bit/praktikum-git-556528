@@ -5,3 +5,6 @@ Tugas 1:
 
 Tugas 2:
 ![BranchProtectionRule_tugas2](BranchProtectionRule_tugas2.png)
+
+Tugas 3:
+![rebase](tugas3.png)
